@@ -1,0 +1,61 @@
+{
+  "id": "03c6dc9e-9702-402f-aba6-4be286246f4a",
+  "parentId": "15521e5e-dbc9-4ec6-9dfa-3094abf1bf5f",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "..... - yes",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-no-no-yes-no-followup",
+    "yes-no-no-yes-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-no.Coronavirusself-evaluation-yes-no-no-yes.Coronavirusself-evaluation-yes-no-no-yes-no.yes-no-no-yes-no-yes",
+      "affectedContexts": [
+        {
+          "name": "yes-no-no-yes-no-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "0-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "y-n-n-y-n-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Did this person travel outside Egypt during the previous twenty-eight \ndays, or if this person is from other countries, did he travel during the previous twenty-eight days?",
+            "Has this person traveled from one country to another within the past twenty-eight days?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
