@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>New Features!.md</title><style></style></head><body id="preview">
 <p class="has-line-data" data-line-start="0" data-line-end="2">Action on Google Assistant<br>
 Anti-CoronaVirus Action</p>
 <ul>
