@@ -1,0 +1,60 @@
+{
+  "id": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "Corona virus self-evaluation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Coronavirusself-evaluation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6f4c0ace-d8ea-4718-aee4-e25976a8ee37",
+          "required": true,
+          "dataType": "@Virus",
+          "name": "Virus",
+          "value": "$Virus",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is virus ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Yes you can make online here do you want ?",
+            "you can make online here do you want ?",
+            "Fortunately, this can be done by answering the questions ... do you want that ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

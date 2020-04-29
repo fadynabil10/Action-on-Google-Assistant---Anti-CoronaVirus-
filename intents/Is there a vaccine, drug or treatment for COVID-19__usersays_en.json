@@ -1,0 +1,48 @@
+[
+  {
+    "id": "31f18cfd-980a-4a1b-9871-ffd6aa875071",
+    "data": [
+      {
+        "text": "treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34c507ef-32be-43cc-9506-80c828f30a03",
+    "data": [
+      {
+        "text": "Is there a vaccine, drug or treatment for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4411198a-ba83-4253-be13-6944855be40a",
+    "data": [
+      {
+        "text": "vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

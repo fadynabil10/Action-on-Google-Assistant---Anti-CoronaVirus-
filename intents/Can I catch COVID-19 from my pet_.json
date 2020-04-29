@@ -1,0 +1,44 @@
+{
+  "id": "f9a07674-bf6f-44e1-9fc5-755f4aab5cd0",
+  "name": "Can I catch COVID-19 from my pet?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "de98676d-6a09-4f0d-af7f-22874740d813",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "-We are aware of instances of animals and pets of COVID-19 patients being infected with the disease;\n-As the intergovernmental body responsible for improving animal health worldwide, the World Organisation for Animal Health (OIE) has been developing technical guidance on specialised topics related to animal health, dedicated to veterinary services and technical experts (including on testing and quarantine);\n-There is a possibility for some animals to become infected through close contact with infected humans. Further evidence is needed to understand if animals and pets can spread the disease;\n-Based on current evidence, human to human transmission remains the main driver;\n-It is still too early to say whether cats could be the intermediate host in the transmission of the COVID-19."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "b13d0e3c-d3a4-4c2f-9795-d93e1ff7adfe",
+    "data": [
+      {
+        "text": "Analysis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6708376-e4f3-4134-aef3-b08e190da481",
+    "data": [
+      {
+        "text": "Analysis for ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "da300825-5a55-474d-816e-4530be185dbf",
+  "name": "Insights from Google Trends about COVID-19 ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7cc87c16-7dad-4d6f-bfc5-d7d1428817ab",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Top searches related to coronavirus : https://trends.google.com/trends/story/",
+            "Search interest in coronavirus by country : https://trends.google.com/trends/story/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

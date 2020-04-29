@@ -1,0 +1,56 @@
+{
+  "id": "d968e19e-d501-42b8-8d4e-88e08c2bcb3d",
+  "name": "Live Map Coronavirus COVID-19 Cases ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2474d470-a483-4718-b38e-dcc40ba6e1f5",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "32b68ecd-a8ae-40b8-a5f4-52c756285d2d",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus1",
+          "value": "$virus1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "https://coronavirus-resources.esri.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac?geometry\u003d-168.318%2C-38.069%2C-174.294%2C63.033\u0026layer\u003d1"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

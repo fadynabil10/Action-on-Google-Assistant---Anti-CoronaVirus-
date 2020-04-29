@@ -1,0 +1,46 @@
+[
+  {
+    "id": "586f6821-9ff6-43ab-930e-a06b2acee98a",
+    "data": [
+      {
+        "text": "Is the ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona virus",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " transmitted by the spread in the air only?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c960ff14-b5f9-43b0-b973-d88471b8ba99",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " airborne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

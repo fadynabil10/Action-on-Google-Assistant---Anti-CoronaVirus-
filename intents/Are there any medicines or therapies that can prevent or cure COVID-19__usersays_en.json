@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ccf1c874-7fd9-4030-b5b1-30b9e93908df",
+    "data": [
+      {
+        "text": "therapies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d41829c-c14f-4e3c-8992-abc3bde5f273",
+    "data": [
+      {
+        "text": "medicines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de635070-2ef4-4e63-b7b4-984b94979f53",
+    "data": [
+      {
+        "text": "medicines or therapies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47328d94-8abc-4f04-aaea-9edb82f04ac5",
+    "data": [
+      {
+        "text": "Are there any medicines or therapies that can prevent or cure ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

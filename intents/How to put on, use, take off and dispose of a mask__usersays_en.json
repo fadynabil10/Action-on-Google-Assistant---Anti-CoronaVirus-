@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7dddd37f-879a-4c0b-ae0a-a301990d90c3",
+    "data": [
+      {
+        "text": "take off mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef51fbaa-c786-483e-97ef-4e2975011022",
+    "data": [
+      {
+        "text": "use mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b52a5912-16d4-4c2f-8bcf-51ec6ce2b53c",
+    "data": [
+      {
+        "text": "put on, use, take off a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa1b3b3a-caa9-43f6-b458-f67a67e1c702",
+    "data": [
+      {
+        "text": "How to put on, use, take off and dispose of a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

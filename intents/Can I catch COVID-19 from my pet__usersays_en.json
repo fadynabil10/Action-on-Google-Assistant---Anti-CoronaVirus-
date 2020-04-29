@@ -1,0 +1,24 @@
+[
+  {
+    "id": "774311c1-6add-4eeb-b2ce-f86bb037f88d",
+    "data": [
+      {
+        "text": "Can I catch ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " from my pet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

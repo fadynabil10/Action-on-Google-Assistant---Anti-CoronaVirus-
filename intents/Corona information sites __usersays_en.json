@@ -1,0 +1,37 @@
+[
+  {
+    "id": "78b0ac58-5a33-4eeb-929a-3d2cee8ef2f6",
+    "data": [
+      {
+        "text": "information",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " sites ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "866eaf32-e315-43dc-9fd4-fe443a2145bf",
+    "data": [
+      {
+        "text": "Corona",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " information sites ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

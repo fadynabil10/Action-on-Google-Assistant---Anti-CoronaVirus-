@@ -1,0 +1,31 @@
+{
+  "id": "ad5be1a1-91b5-494e-9fde-2ce56204d799",
+  "name": "How to put on, use, take off and dispose of a mask?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough.\nBefore touching the mask, clean hands with an alcohol-based hand rub or soap and water\nTake the mask and inspect it for tears or holes.\nOrient which side is the top side (where the metal strip is).\nEnsure the proper side of the mask faces outwards (the coloured side).\nPlace the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose.\nPull down the mask’s bottom so it covers your mouth and your chin.\nAfter use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask.\nDiscard the mask in a closed bin immediately after use.\nPerform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

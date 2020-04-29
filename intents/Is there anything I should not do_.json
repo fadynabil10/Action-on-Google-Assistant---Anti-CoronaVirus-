@@ -1,0 +1,31 @@
+{
+  "id": "76172d19-b894-4248-9322-e0a2f9ff5282",
+  "name": "Is there anything I should not do?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The following measures ARE NOT effective against COVID-2019 and can be harmful:\nSmoking\nWearing multiple masks\nTaking antibiotics (See question 10 \"Are there any medicines of therapies that can prevent or cure COVID-19?\")\nIn any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

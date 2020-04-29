@@ -1,0 +1,46 @@
+[
+  {
+    "id": "df253826-cd68-4504-8807-72d3b7122274",
+    "data": [
+      {
+        "text": "How does ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " spread?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a35046b6-3eec-476b-b291-3c1f5c270a6b",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " spreads ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

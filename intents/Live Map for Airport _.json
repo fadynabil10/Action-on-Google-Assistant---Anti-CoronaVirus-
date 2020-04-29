@@ -1,0 +1,31 @@
+{
+  "id": "94719fe1-2706-47a4-a0e4-1a0d70841b92",
+  "name": "Live Map for Airport ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "https://coronavirus-resources.esri.com/datasets/5c5ea2ff0f724e4b9c20026912ea9dbe_0/geoservice?geometry\u003d-135.242%2C-15.078%2C-141.218%2C72.671"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

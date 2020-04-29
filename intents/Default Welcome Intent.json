@@ -1,0 +1,41 @@
+{
+  "id": "3d39fd91-f03a-4314-8d69-2b3d6b042cf2",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hi! How are you doing?\nThe information provided by the action is not a substitute for advice from a medical professional.\nWhat can i do for you?",
+            "Hello! How can I help you?\nThe information provided by the action is not a substitute for advice from a medical professional.\nWhat can i do for you?",
+            "Good day! What can I do for you today?\nThe information provided by the action is not a substitute for advice from a medical professional.\nWhat can i do for you?",
+            "Greetings! How can I assist?\nThe information provided by the action is not a substitute for advice from a medical professional.\nWhat can i do for you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "92c631e1-a7ee-42fa-ba48-7162f81513f0",
+    "data": [
+      {
+        "text": "Coronavirus",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " disease (",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus1",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": ") advice for the public ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

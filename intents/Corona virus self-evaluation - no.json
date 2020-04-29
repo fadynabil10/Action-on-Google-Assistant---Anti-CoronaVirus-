@@ -1,0 +1,36 @@
+{
+  "id": "5ec2c917-db2e-4596-b74d-c83005a4d523",
+  "parentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "Corona virus self-evaluation - no",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Is there anything else I can help with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

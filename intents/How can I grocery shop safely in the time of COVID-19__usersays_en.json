@@ -1,0 +1,36 @@
+[
+  {
+    "id": "4d2144f2-c439-4066-a16c-0e72ae25cc8f",
+    "data": [
+      {
+        "text": "grocery shop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5892ee94-95ac-41c9-a75a-e703c53c2d39",
+    "data": [
+      {
+        "text": "How can I grocery shop safely in the time of ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

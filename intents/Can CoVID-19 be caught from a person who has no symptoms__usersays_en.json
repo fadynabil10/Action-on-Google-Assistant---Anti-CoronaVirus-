@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1bd3e1fe-2f83-4d58-9790-5b80fd7ce9b0",
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "CoVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " be caught from a person who has no symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

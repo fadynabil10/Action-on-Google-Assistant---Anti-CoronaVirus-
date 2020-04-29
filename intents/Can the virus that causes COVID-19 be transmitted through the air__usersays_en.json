@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0b91f384-b4bd-4c6a-b7d2-a01ac171464e",
+    "data": [
+      {
+        "text": "Can the virus that causes ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " be transmitted through the air?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

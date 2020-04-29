@@ -1,0 +1,45 @@
+{
+  "id": "d972b066-5f72-4c09-bf4c-5d5e57e16532",
+  "parentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "Corona virus self-evaluation - yes",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes",
+      "affectedContexts": [
+        {
+          "name": "Coronavirusself-evaluation-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Do you suffer from Severe difficulty breathing or difficulty  speaking or Severe chest pain or Having trouble getting up or Feeling disturbed and confused or Loss of consciousness?",
+            "Do you have severe breathing problems, trouble speaking, severe chest pain, difficulty waking, discomfort or confusion, or loss of consciousness?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

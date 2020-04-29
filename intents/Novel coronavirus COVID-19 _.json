@@ -1,0 +1,59 @@
+{
+  "id": "fd269ceb-16d8-427b-a60b-3629a76031ea",
+  "name": "Novel coronavirus COVID-19 ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e402bbc4-3539-497b-8bf6-f8038879810c",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "409af220-f651-48ce-b260-ea90e386c904",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus1",
+          "value": "$virus1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd",
+            "https://data-montcopa.opendata.arcgis.com/pages/covid-19"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

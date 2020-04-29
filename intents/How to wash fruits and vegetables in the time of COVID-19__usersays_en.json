@@ -1,0 +1,36 @@
+[
+  {
+    "id": "6d4b10b9-1071-451d-8036-a61b008386be",
+    "data": [
+      {
+        "text": "wash fruits and vegetables",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ce5ac14-3f73-4ca1-af49-11fc94012450",
+    "data": [
+      {
+        "text": "How to wash fruits and vegetables in the time of ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

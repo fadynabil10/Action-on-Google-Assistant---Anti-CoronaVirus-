@@ -1,0 +1,24 @@
+[
+  {
+    "id": "10e654e2-8af6-4435-a0da-6b6c677c1955",
+    "data": [
+      {
+        "text": "Can I catch ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " from the feces of someone with the disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

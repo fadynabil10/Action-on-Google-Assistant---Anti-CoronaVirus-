@@ -1,0 +1,36 @@
+[
+  {
+    "id": "5fe7c2d1-af85-46a7-9bb3-d2acaccdd256",
+    "data": [
+      {
+        "text": "antibiotics effective",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f642c7a-ca16-42aa-b030-c3614a2556c2",
+    "data": [
+      {
+        "text": "Are antibiotics effective in preventing or treating the ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "e5393ee8-1490-462c-8fc1-a7951acd38bd",
+    "data": [
+      {
+        "text": "receive a package from any area where ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e49ff26-3b7f-40d2-b407-c8d8ca3d4b8a",
+    "data": [
+      {
+        "text": "Is it safe to receive a package from any area where ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " has been reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

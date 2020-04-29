@@ -1,0 +1,58 @@
+[
+  {
+    "id": "6b011575-8d00-45aa-83af-9e82179e07ba",
+    "data": [
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " human SARS-CoV",
+        "userDefined": false
+      },
+      {
+        "text": "-2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " infections occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99f2b8e2-0103-4b5b-b9d4-c896ce04887a",
+    "data": [
+      {
+        "text": "How did the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " human SARS-CoV",
+        "userDefined": false
+      },
+      {
+        "text": "-2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " infections occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

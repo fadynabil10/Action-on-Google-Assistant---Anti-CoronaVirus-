@@ -1,0 +1,36 @@
+[
+  {
+    "id": "e6add64b-3a78-4993-90f9-a09850ce2625",
+    "data": [
+      {
+        "text": "How to reduce infection  ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f6bf6bd-45ec-4ce4-8781-c98a80417ba2",
+    "data": [
+      {
+        "text": "How to reduce infection with the ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona virus",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

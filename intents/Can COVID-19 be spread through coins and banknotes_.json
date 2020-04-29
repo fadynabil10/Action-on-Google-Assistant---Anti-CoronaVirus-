@@ -1,0 +1,44 @@
+{
+  "id": "44f99444-84db-49f3-ba27-163dc3894c8d",
+  "name": "Can COVID-19 be spread through coins and banknotes?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a3506036-b193-4004-ad8a-40dcf04b46e5",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is currently no evidence to confirm or disprove that COVID-19 virus can be transmitted through coins or banknotes. However, respiratory droplets expelled from an infected person can contaminate and persist on surfaces. Wash your hands regularly and thoroughly after touching any frequently-touched surface or object, including coins or banknotes. Avoid touching your eyes, mouth and nose, if your hands are not cleaned."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

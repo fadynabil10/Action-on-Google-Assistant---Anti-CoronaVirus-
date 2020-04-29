@@ -1,0 +1,24 @@
+[
+  {
+    "id": "43f5a06b-27c5-4b70-a140-742adb6d8c4a",
+    "data": [
+      {
+        "text": "Can humans become infected with the ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " from an animal source?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

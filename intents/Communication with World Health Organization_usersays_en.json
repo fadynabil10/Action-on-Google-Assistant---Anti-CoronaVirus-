@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eaefd058-ad8d-4622-9633-63807319197f",
+    "data": [
+      {
+        "text": "Contact with World Health Organization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86c3ff1f-ef23-4fe9-b6c7-80e7f0e25b5f",
+    "data": [
+      {
+        "text": "Communication with World Health Organization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

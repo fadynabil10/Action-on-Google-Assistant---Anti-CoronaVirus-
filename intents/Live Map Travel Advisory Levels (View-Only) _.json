@@ -1,0 +1,31 @@
+{
+  "id": "a00bc31d-f390-439c-8443-54c54190cdbe",
+  "name": "Live Map Travel Advisory Levels (View-Only) ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "https://coronavirus-resources.esri.com/datasets/85cf3abbe6ce41298b238cb661ba1ef8_0?geometry\u003d-66.006%2C-11.181%2C111.006%2C44.838"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

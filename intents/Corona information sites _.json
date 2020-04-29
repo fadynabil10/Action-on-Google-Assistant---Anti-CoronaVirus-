@@ -1,0 +1,51 @@
+{
+  "id": "afd459dc-025f-4f8a-b7d3-7cd5a18cf34c",
+  "name": "Corona information sites ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0846a98a-069a-445e-9b1b-0f0ca7907312",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "https://www.google.com/covid19/",
+            "https://www.facebook.com/coronavirus_info/?page_source\u003dbookmark",
+            "https://www.worldometers.info/coronavirus/",
+            "https://www.who.int/health-topics/coronavirus#tab\u003dtab_1",
+            "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+            "https://www.coronatracker.com/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

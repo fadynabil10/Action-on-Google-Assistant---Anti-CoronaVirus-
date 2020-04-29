@@ -1,0 +1,44 @@
+{
+  "id": "16a50f57-c0f1-4887-ba82-63522d056dba",
+  "name": "Analysis for COVID-19 ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "35a528cd-886e-4e2c-ad63-1d343a9d6bb4",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "https://colab.research.google.com/drive/1tsAbMhGt7n4JKHi1upoM3hb87UjYs-wL?fbclid\u003dIwAR2F4t8r87wLR6dfd_OLboA_G28kJ_CVC1b4ky0Wnoc3cWx_ramV_ETog8Q#scrollTo\u003dT_E64G_6C7Kh"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

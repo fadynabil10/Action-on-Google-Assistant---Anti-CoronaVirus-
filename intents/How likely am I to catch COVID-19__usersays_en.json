@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1c4ff0e4-ef82-4cbf-9b68-a09ce3f4665d",
+    "data": [
+      {
+        "text": "How likely am I to catch ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
