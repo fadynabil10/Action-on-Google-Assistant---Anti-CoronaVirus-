@@ -1,0 +1,36 @@
+{
+  "id": "2a886425-8a88-42dd-88d1-fb0f9a77073c",
+  "parentId": "12768c49-f8a4-461e-998b-6fa7f3d0b136",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no - no - yes - yes",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-no-no-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-no.Coronavirusself-evaluation-yes-no-no-yes.Coronavirusself-evaluation-yes-no-no-yes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Call 105 to speak with the nursing staff if you are in Egypt or if you are outside Egypt. Talk to your country’s nursing staff\nBased on the answers you provided, please contact the nursing staff so that a member of the nursing team can assess the symptoms.\nPlease do not go to the emergency department, or visit clinics unless those symptoms worsen due to the appearance of symptoms on you. Please do a self-quarantine until the results of your analyzes are available. Self-isolation means not going to public places, staying at home and not meeting visitors.\nDo not share personal items such as dishes, utensils and towels, and wash your hands occasionally.\nHow else may I help?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

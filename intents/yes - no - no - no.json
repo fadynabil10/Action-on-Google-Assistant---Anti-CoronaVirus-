@@ -1,0 +1,45 @@
+{
+  "id": "0e2c2122-74aa-4984-ab12-7ec1cb073233",
+  "parentId": "73463887-852b-4496-83d6-763b570e5885",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no - no - no",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-no.Coronavirusself-evaluation-yes-no-no-no",
+      "affectedContexts": [
+        {
+          "name": "yes-no-no-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Have you closely interacted with a person suffering from respiratory disease within the past 14 days? Dealing closely is through someone\n\nThose who provide care for individuals, including medical care providers, family members, baby sitters, patients, and the elderly, or who have made physical contact without proper use of personal protective equipment.\nWho have lived or been in prolonged contact (two meters away) with an infectious person\nDirect exposure This person spray (coughing or sneezing spray) without wearing the recommended personal protective equipment.",
+            "Have you closely interacted with a person suffering from respiratory disease within the past 14 days? Dealing closely is through someone"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

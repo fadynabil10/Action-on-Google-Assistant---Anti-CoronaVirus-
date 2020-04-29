@@ -1,0 +1,52 @@
+{
+  "id": "6eeb191e-24da-4084-9b98-d3e1ab499d3b",
+  "name": "What is Virus map ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7aed3830-34b4-49d1-a25c-4dbbdd953e67",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Explore the map from here : https://news.google.com/covid19/map",
+            "Explore the map from here : https://www.worldometers.info/coronavirus/?fbclid\u003dIwAR23sUoH7OCKefZJs2rzmK2Q9ooCjRxNCL9lxecFMgGZK6EkBtjlwFLPLE8#countries",
+            "Explore the map from here : https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+            "Explore the map from here : https://coronavirus.jhu.edu/map.html?utm_medium\u003demail\u0026utm_source\u003dmarketing\u0026utm_campaign\u003drUR7AGmDEeqd_xFKDENJkw",
+            "Explore the map from here : https://www.coronatracker.com/",
+            "Explore the map from here : \nhttps://www.arcgis.com/apps/opsdashboard/index.html#/20bfbf89c8e74c0494c90b1ae0fa7b78",
+            "Explore the map from here : https://ourworldindata.org/coronavirus#confirmed-covid-19-cases-by-country"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

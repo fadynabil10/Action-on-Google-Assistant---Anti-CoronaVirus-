@@ -1,0 +1,31 @@
+{
+  "id": "e7bd481f-a3aa-4558-bf6b-90941e34fb01",
+  "name": "What I am entertaining myself in stone if you love space ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "NASA opened the library completely without charge\nhttps://www.diyphotography.net/nasa-makes-entire-media-library-publicly-accessible-copyright-free/?fbclid\u003dIwAR3dotmFOWiE877z7SDGxLSvRG6cp88fETjSM41XATxR9qjEjp9sLGUYKM0"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

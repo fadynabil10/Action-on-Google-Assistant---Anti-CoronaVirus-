@@ -1,0 +1,31 @@
+{
+  "id": "e1c28954-dc65-4437-8bb0-6df6b7297258",
+  "name": "Resources from Google for Individuals ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Stay connected and informed\n1- Training resources for remote working and learning from here : https://grow.google/remotework/\n2- Find remote job opportunities from here : https://www.google.com/search?q\u003dremote+jobs\u0026ibp\u003dhtl;jobs\u0026rciv\u003djb#fpstate\u003dtlexp\nStay updated on travel advisories and airline policies from here : https://blog.google/products/flights-hotels/travel-advisories-and-airline-policies/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

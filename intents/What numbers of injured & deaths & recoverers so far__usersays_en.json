@@ -1,0 +1,119 @@
+[
+  {
+    "id": "bb2543b3-06cf-49bc-b455-2a54ec636793",
+    "data": [
+      {
+        "text": "Virus statistics in the world?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c6a2bc2-e022-4446-96a1-7422994eefc8",
+    "data": [
+      {
+        "text": "numbers of recoverers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3da6da88-e0d7-45ad-8201-5c8cb5baf24a",
+    "data": [
+      {
+        "text": "What numbers of recoverers so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20fca838-2948-4698-a3a2-6ccef1e9bec6",
+    "data": [
+      {
+        "text": "What numbers of injured \u0026 deaths \u0026 recoverers so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e5a2f8f-fbe2-422a-afca-4e053178cfd8",
+    "data": [
+      {
+        "text": "numbers of deaths",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bcc0b85-26a5-446b-bc16-f83214586167",
+    "data": [
+      {
+        "text": "What numbers of injured \u0026 deaths so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cac13c3b-a7ff-4dbe-aaf8-eb151f42ca9f",
+    "data": [
+      {
+        "text": "What numbers of ",
+        "userDefined": false
+      },
+      {
+        "text": "deaths",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5645e5f-c598-431c-b7b1-43257599d9ff",
+    "data": [
+      {
+        "text": "numbers of injured",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49ed7935-2370-425f-a21e-b2bbd14a4f81",
+    "data": [
+      {
+        "text": "What numbers of injured so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

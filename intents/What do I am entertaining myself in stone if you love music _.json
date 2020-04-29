@@ -1,0 +1,36 @@
+{
+  "id": "da000901-dc71-4586-b81e-5752a5ccf988",
+  "name": "What do I am entertaining myself in stone if you love music ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "From here, you will hear every radio station in the world\nhttp://radio.garden/visit/teramo/WSwepPmI",
+            "From here, you will hear every radio station in the world\nhttps://soundcloud.com/",
+            "From here, you will hear every radio station in the world\nhttps://www.deezer.com/",
+            "From here, you will hear every radio station in the world\nhttps://www.anghami.com/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

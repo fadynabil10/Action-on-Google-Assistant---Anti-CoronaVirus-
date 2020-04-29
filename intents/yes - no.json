@@ -1,0 +1,45 @@
+{
+  "id": "40bf05d2-b709-41b2-8ca9-a949a9737763",
+  "parentId": "d972b066-5f72-4c09-bf4c-5d5e57e16532",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no",
+      "affectedContexts": [
+        {
+          "name": "Coronavirusself-evaluation-yes-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Do you suffer from shortness of breath or the inability to lie down due to difficulty breathing or a chronic health condition that you cannot control due to your current respiratory disease?",
+            "Do you have trouble breathing, inability to lie down due to difficulty breathing, or a chronic health condition that you cannot control due to your current respiratory illness?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

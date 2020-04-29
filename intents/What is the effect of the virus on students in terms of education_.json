@@ -1,0 +1,31 @@
+{
+  "id": "190fb322-b229-40fc-88f9-7cbe87da6ff4",
+  "name": "What is the effect of the virus on students in terms of education?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures?utm_medium\u003demail\u0026utm_source\u003dmarketing\u0026utm_campaign\u003drUR7AGmDEeqd_xFKDENJkw"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

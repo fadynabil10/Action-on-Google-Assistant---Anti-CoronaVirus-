@@ -1,0 +1,31 @@
+{
+  "id": "6fefa1c0-492e-418d-b94b-a6b46d88c363",
+  "name": "Resources from Google for Educators ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Move your classroom online\n1- Distance learning resources for schools from here : https://edu.google.com/latest-news/covid-19-support-resources/?modal_active\u003dnone\u0026topic\u003dview-all\n2- Teach from Home tools for teachers from here : https://teachfromhome.google/\n3- Free premium Hangouts Meet capabilities from here : https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

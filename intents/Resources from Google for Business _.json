@@ -1,0 +1,31 @@
+{
+  "id": "97f3b1df-2d59-453d-a581-64acd7e0e083",
+  "name": "Resources from Google for Business ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Help keep your business running\n1- Resources to help manage through uncertainty from here : https://smallbusiness.withgoogle.com/news/resources-for-smbs-impacted-by-coronavirus/#!/\n2- Training resources for remote working and learning from here : https://grow.google/remotework/\n3- Free premium Hangouts Meet capabilities from here : https://cloud.google.com/blog/products/g-suite/helping-businesses-and-schools-stay-connected-in-response-to-coronavirus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "33dfb681-7940-4a3c-aa12-096ecdf518f6",
+  "parentId": "0e2c2122-74aa-4984-ab12-7ec1cb073233",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no - no - no - no",
+  "auto": true,
+  "contexts": [
+    "yes-no-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-no.Coronavirusself-evaluation-yes-no-no-no.yes-no-no-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You don\u0027t need to check the Corona Virus\nThere are many common viruses other than corona that cause your symptoms. Based on your answers, you do not need to check the virus at this time.\nWe hope that anyone who develops symptoms that include coughing, runny nose, fever and sore throat will self-quit for 14 days.\nTo protect yourself in public places, please wash your hands frequently and intensively, and keep at least 2 meters from the surroundings\nIf symptoms worsen or if you are interested in learning more, call 105 if you are in Egypt or if you are in another country speak to a specialist doctor.\nHow else may I help?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

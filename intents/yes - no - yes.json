@@ -1,0 +1,36 @@
+{
+  "id": "c5965a4f-c400-47c5-b05d-68ade2d8ebc7",
+  "parentId": "40bf05d2-b709-41b2-8ca9-a949a9737763",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no - yes",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Call 105 in Egypt to speak with the nursing staff or if you are in another country, speak to the phone with one of the nursing staff and let them know your symptoms. How else may I help?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

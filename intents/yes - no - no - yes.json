@@ -1,0 +1,45 @@
+{
+  "id": "12768c49-f8a4-461e-998b-6fa7f3d0b136",
+  "parentId": "73463887-852b-4496-83d6-763b570e5885",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no - no - yes",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-no.Coronavirusself-evaluation-yes-no-no-yes",
+      "affectedContexts": [
+        {
+          "name": "Coronavirusself-evaluation-yes-no-no-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Did you deal directly with someone who was confirmed to be infected with the virus within the 14 days before your symptoms appeared?\nDid you travel outside the country during the 14 days before the symptoms appeared on you?",
+            "Did you deal directly with someone confirmed to be infected with the virus or have you traveled outside the country within the 14 days before your symptoms appeared?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

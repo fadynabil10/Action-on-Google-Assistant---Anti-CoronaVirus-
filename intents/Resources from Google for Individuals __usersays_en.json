@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cba4056e-5c02-4471-80be-259b6a6ae3e8",
+    "data": [
+      {
+        "text": "Resources  for  Individuals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06a256f1-2f37-491f-a01c-cb6c057853fd",
+    "data": [
+      {
+        "text": "Google for ",
+        "userDefined": false
+      },
+      {
+        "text": "Individuals",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d46b15e3-d7b6-486c-ba21-1ee52f91a525",
+    "data": [
+      {
+        "text": "Resources from Google for Individuals ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

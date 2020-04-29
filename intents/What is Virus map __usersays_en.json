@@ -1,0 +1,60 @@
+[
+  {
+    "id": "d03cdae6-bbf0-4946-a586-5f169c789fa8",
+    "data": [
+      {
+        "text": "Live Map ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4dafab4-bcff-404a-877f-baf8daa8c72a",
+    "data": [
+      {
+        "text": "What are the statistics in the world now ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eddef854-0e46-4f3c-bd54-a89811e58c83",
+    "data": [
+      {
+        "text": "See areas affected by ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03ec2b4d-b886-48cb-8739-bd49dc3e02ae",
+    "data": [
+      {
+        "text": "What is Virus map ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

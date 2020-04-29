@@ -1,0 +1,46 @@
+[
+  {
+    "id": "87c54efc-bb37-4d66-82c7-27306f140c0a",
+    "data": [
+      {
+        "text": "What are the ways to prevent ",
+        "userDefined": false
+      },
+      {
+        "text": "corona virus",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " to avoid it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f98118f8-ec66-4d79-a2af-2625b227ba0b",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " PREVENTION?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

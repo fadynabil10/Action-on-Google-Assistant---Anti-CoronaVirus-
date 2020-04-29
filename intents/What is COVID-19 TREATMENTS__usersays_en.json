@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bd07f449-836e-4765-b2ad-2f65af8c3843",
+    "data": [
+      {
+        "text": "TREATMENTS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "244e75f9-87be-4964-b1bd-530475e12cf2",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": " TREATMENTS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

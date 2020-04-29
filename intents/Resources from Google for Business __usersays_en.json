@@ -1,0 +1,38 @@
+[
+  {
+    "id": "61e72c70-f120-4c04-996d-7a8d3708c6d9",
+    "data": [
+      {
+        "text": "Google for Business ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6457f762-d479-4382-a331-fbb7323beeab",
+    "data": [
+      {
+        "text": "Resources for Business ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36fba3b1-dd13-44d2-9fd2-2faeac1d49a8",
+    "data": [
+      {
+        "text": "Resources from Google for Business ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "15521e5e-dbc9-4ec6-9dfa-3094abf1bf5f",
+  "parentId": "12768c49-f8a4-461e-998b-6fa7f3d0b136",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no - no - yes - no",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-no-no-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-no.Coronavirusself-evaluation-yes-no-no-yes.Coronavirusself-evaluation-yes-no-no-yes-no",
+      "affectedContexts": [
+        {
+          "name": "Coronavirusself-evaluation-yes-no-no-yes-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "yes-no-no-yes-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Have you closely interacted with a person suffering from respiratory disease within the past 14 days? Dealing closely is through someone\nThose who provide care for individuals, including medical care providers, family members, baby sitters, patients, and the elderly, or who have made physical contact without proper use of personal protective equipment.\nWho have lived or been in prolonged contact (two meters away) with an infectious person\nDirect exposure This person spray (coughing or sneezing spray) without wearing the recommended personal protective equipment.",
+            "Have you closely interacted with a person suffering from respiratory disease within the past 14 days? Dealing closely is through someone"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

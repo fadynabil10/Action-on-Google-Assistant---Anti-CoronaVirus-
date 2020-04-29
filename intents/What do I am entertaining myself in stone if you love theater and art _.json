@@ -1,0 +1,31 @@
+{
+  "id": "fa6aa1a1-3e4e-469c-9731-e2508fdfabd1",
+  "name": "What do I am entertaining myself in stone if you love theater and art ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "See the theater for free here\nhttps://www.insider.com/stream-broadway-musicals-plays-for-free-online-limited-time-coronavirus-2020-3?utm_source\u003dfacebook.com\u0026utm_medium\u003dsocial\u0026utm_campaign\u003dsf-insider-beauty\u0026fbclid\u003dIwAR1SiyfmSSWuBr-SrrOQN_QtRxvzZrwy1N3TwDpVqgkexRCgqd4Kv_qi6KQ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

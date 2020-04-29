@@ -1,0 +1,37 @@
+{
+  "id": "d00f6571-ef02-48e7-8bd1-26f915ed60ab",
+  "name": "What are the tools that I can learn from after?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "https://twitter.com/fady_nabil10/status/1239303644668989440",
+            "https://gsuite.google.com/",
+            "https://zoom.us/",
+            "https://twitter.com/fady_nabil10/status/1239303644668989440",
+            "https://teachfromhome.google/intl/en/?fbclid\u003dIwAR25bxpDEjXw7jg2JXdT14vy-ujLVKmMbBaC_fQcNFOTdZf3pQB6PUEgmag"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

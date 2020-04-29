@@ -1,0 +1,26 @@
+[
+  {
+    "id": "aca4d5b7-1879-4ba8-a577-0a1de9d216a6",
+    "data": [
+      {
+        "text": "Traveling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "531d7970-3712-4156-9de0-14e996e1555e",
+    "data": [
+      {
+        "text": "Travel advice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

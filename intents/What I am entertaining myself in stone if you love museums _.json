@@ -1,0 +1,31 @@
+{
+  "id": "f856a480-91af-4db8-b266-18ed0f87bf4f",
+  "name": "What I am entertaining myself in stone if you love museums ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Those who love museums\n14 Museum, two houses, the Virtual Tours, for free\nhttps://robbreport.com/lifestyle/news/14-virtual-museum-to-visit-during-social-distancing-and-quarantine-2905827/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

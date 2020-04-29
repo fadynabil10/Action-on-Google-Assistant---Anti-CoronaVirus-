@@ -1,0 +1,35 @@
+{
+  "id": "4ee3240c-7217-4b35-b468-e0b4aa3c5bbe",
+  "name": "Solution for Educate from Home ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "https://teachfromhome.google/intl/en/?fbclid\u003dIwAR25bxpDEjXw7jg2JXdT14vy-ujLVKmMbBaC_fQcNFOTdZf3pQB6PUEgmag",
+            "https://www.wiziq.com/?fbclid\u003dIwAR0taDpplIu5rosMQBFzxF_NuWarlB4pR_7mvkwd63nlVT4rD-0U8eBRBgU",
+            "https://teachfromhome.google/intl/en/?fbclid\u003dIwAR25bxpDEjXw7jg2JXdT14vy-ujLVKmMbBaC_fQcNFOTdZf3pQB6PUEgmag"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

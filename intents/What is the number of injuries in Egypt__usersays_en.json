@@ -1,0 +1,38 @@
+[
+  {
+    "id": "271fd44c-98a5-40b7-bc54-3be9d9be72ce",
+    "data": [
+      {
+        "text": "What is the setting in Egypt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "874e2c5a-2360-4304-8af6-caa78d58845c",
+    "data": [
+      {
+        "text": "What is the number of injuries in Egypt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "703f0451-0df9-41cd-bac4-4903c5b18b7a",
+    "data": [
+      {
+        "text": "Knowing the situation in Egypt ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

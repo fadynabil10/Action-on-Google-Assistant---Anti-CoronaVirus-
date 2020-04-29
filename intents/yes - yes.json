@@ -1,0 +1,36 @@
+{
+  "id": "2cd48c6a-b6e3-422f-83d0-7d344579ea13",
+  "parentId": "d972b066-5f72-4c09-bf4c-5d5e57e16532",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - yes",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Call 123 if you are in Egypt, call an ambulance if you are in another country, or go directly to the nearest emergency department. How else may I help?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b9a87d5a-fe27-48f4-8237-61fd67bcddd5",
+    "data": [
+      {
+        "text": "protect myself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "936dd447-38e4-4446-b217-b14b0a1e3bfa",
+    "data": [
+      {
+        "text": "wear a mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3da0656e-b379-4563-b0d8-86aa291836ea",
+    "data": [
+      {
+        "text": "mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17c7809f-8405-4169-b461-04c2b4fdf6c1",
+    "data": [
+      {
+        "text": "Should I wear a mask to protect myself?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

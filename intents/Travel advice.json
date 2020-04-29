@@ -1,0 +1,31 @@
+{
+  "id": "92ca9fd1-2ccf-4ca4-81e3-1730089238a7",
+  "name": "Travel advice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "WHO continues to advise against the application of travel or trade restrictions to countries experiencing COVID-19 outbreaks.\nIt is prudent for travellers who are sick to delay or avoid travel to affected areas, in particular for elderly travellers and people with chronic diseases or underlying health conditions. “Affected areas” are considered those countries, provinces, territories or cities experiencing ongoing transmission of COVID-19, in contrast to areas reporting only imported cases. \nGeneral recommendations for all travellers include:\n 🧼 Wash your hands frequently\n👄 Avoid touching your eyes, mouth and nose\n💪 Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze\n↔️ Stay more than 1 meter (3 feet) away from a person who is sick\n🍗 Follow proper food hygiene practices\n😷 Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19.\nTravellers returning from affected areas should:\nSelf-monitor for symptoms for 14 days and follow national protocols of receiving countries. Some countries may require returning travellers to enter quarantine. \n If symptoms occur, such as fever, or cough or difficulty breathing, travellers are advised to contact local health care providers, preferably by phone, and inform them of their symptoms and their travel history. \nFor the latest travel advice:\nhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice\nFor the latest situation reports for affected areas:\nhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/ \nFor advice on proper food hygiene practices:\nhttps://www.who.int/foodsafety/publications/consumer/en/5keys_en.pdf?ua\u003d1\u0026ua\u003d1\nFor advice on visiting live animal markets:\nhttps://www.who.int/health-topics/coronavirus/who-recommendations-to-reduce-risk-of-transmission-of-emerging-pathogens-from-animals-to-humans-in-live-animal-markets"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

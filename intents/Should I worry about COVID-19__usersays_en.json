@@ -1,0 +1,48 @@
+[
+  {
+    "id": "8de66aa2-5cee-4fd2-b58e-be2e40b2d2cb",
+    "data": [
+      {
+        "text": "worry  about covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5025fef-67b9-411f-9a4f-457acca796de",
+    "data": [
+      {
+        "text": "worry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a66ab8e-368b-473f-bc11-b63e55e4c2ae",
+    "data": [
+      {
+        "text": "Should I worry about ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "06b15e91-264c-40b3-8f39-005ddd908f6b",
+  "name": "What I am entertaining myself in stone if you like movies and series ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Watch here : Www.shahid.net",
+            "Watch here : https://www.watchit.com/",
+            "Watch here : http://www.netflix.com/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

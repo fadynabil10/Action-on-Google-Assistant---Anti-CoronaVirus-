@@ -1,0 +1,36 @@
+{
+  "id": "6c22fc9e-e1d5-4dbe-81f4-bf0d63c58f17",
+  "name": "What I am entertaining myself in stone if you like Courses and learn new fields ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "See here : https://techdevelopers-td.blogspot.com/",
+            "See here : https://techdevelopers-td.blogspot.com/",
+            "See here : https://www.coursera.org/learn/covid-19?utm_medium\u003demail\u0026utm_source\u003dmarketing\u0026utm_campaign\u003drUR7AGmDEeqd_xFKDENJkw",
+            "See here : https://online-learning.harvard.edu/catalog/free?gclid\u003dCjwKCAjwsMzzBRACEiwAx4lLG_Lwk4mwJV14U8d94tRsdOT36CPE_MvBvqD7Yp9nQ6nSTEIKiIBzoBoCSkEQAvD_BwE"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

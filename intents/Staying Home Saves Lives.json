@@ -1,0 +1,31 @@
+{
+  "id": "4ca72e15-e439-4632-84c1-d27be92873a9",
+  "name": "Staying Home Saves Lives",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can help stop the spread of the virus\n•\nDistancing slows the spread of COVID-19\n•\nThe virus spreads mainly through coughs and sneezes\n•\nYou’ll help protect essential resources for the sickest patients\nSource: who.int"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

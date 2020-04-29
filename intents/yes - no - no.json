@@ -1,0 +1,45 @@
+{
+  "id": "73463887-852b-4496-83d6-763b570e5885",
+  "parentId": "40bf05d2-b709-41b2-8ca9-a949a9737763",
+  "rootParentId": "33b1bde9-32f0-4705-a51b-8fc951a97fbb",
+  "name": "yes - no - no",
+  "auto": true,
+  "contexts": [
+    "Coronavirusself-evaluation-yes-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Coronavirusself-evaluation.Coronavirusself-evaluation-yes.Coronavirusself-evaluation-yes-no.Coronavirusself-evaluation-yes-no-no",
+      "affectedContexts": [
+        {
+          "name": "Coronavirusself-evaluation-yes-no-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Do you have a fever, cough, shortness of breath, congestion, or sore throat?",
+            "Have a fever, cough, shortness of breath, congestion, or sore throat?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

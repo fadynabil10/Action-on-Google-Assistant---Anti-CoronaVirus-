@@ -1,0 +1,48 @@
+[
+  {
+    "id": "b87967cb-b2dc-45bb-9a2a-475d8af7dd30",
+    "data": [
+      {
+        "text": "How to reduce the effects of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona virus",
+        "alias": "virus",
+        "meta": "@Virus",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc9438cc-edec-4f6a-bed1-df0265514bd6",
+    "data": [
+      {
+        "text": "What can I do to protect myself and prevent the spread of disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64ab53e2-2626-4020-ba79-5f614e55d479",
+    "data": [
+      {
+        "text": "Safety and prevention tips ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

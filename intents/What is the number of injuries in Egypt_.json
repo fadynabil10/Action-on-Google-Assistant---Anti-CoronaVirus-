@@ -1,0 +1,34 @@
+{
+  "id": "6ca3eb57-8482-48dc-9191-b0f6a8c801ea",
+  "name": "What is the number of injuries in Egypt?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "See from here : https://www.care.gov.eg/EgyptCare/Index.aspx",
+            "See from here : https://www.coronatracker.com/country/eg"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

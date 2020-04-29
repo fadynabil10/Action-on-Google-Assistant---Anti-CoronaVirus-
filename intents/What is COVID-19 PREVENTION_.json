@@ -1,0 +1,44 @@
+{
+  "id": "14006873-7edb-4035-8ce4-217ac4077713",
+  "name": "What is COVID-19 PREVENTION?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a70e0372-44dd-412c-ae6a-e2685e15d12d",
+          "required": false,
+          "dataType": "@Virus",
+          "name": "virus",
+          "value": "$virus",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Protect yourself and others around you by knowing the facts and taking appropriate precautions. Follow advice provided by your local public health agency.\nTo prevent the spread of COVID-19:\n• Clean your hands often. Use soap and water, or an alcohol-based hand rub.\n• Maintain a safe distance from anyone who is coughing or sneezing.\n• Don’t touch your eyes, nose or mouth.\n• Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.\n• Stay home if you feel unwell.\n• If you have a fever, a cough, and difficulty breathing, seek medical attention. Call in advance.\n• Follow the directions of your local health authority.\nAvoiding unneeded visits to medical facilities allows healthcare systems to operate more effectively, therefore protecting you and others."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

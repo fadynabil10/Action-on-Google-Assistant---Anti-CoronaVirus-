@@ -1,0 +1,35 @@
+{
+  "id": "495eeab0-e1d1-425a-bda1-c8593b43ffe3",
+  "name": "What I am entertaining myself in stone if you love to read ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "In 50 million books, they are free of charge here Www.bookboon.com",
+            "Arabic Books : https://www.abjjad.com/",
+            "See Books From Here : https://1.z-lib.org/?fbclid\u003dIwAR0taDpplIu5rosMQBFzxF_NuWarlB4pR_7mvkwd63nlVT4rD-0U8eBRBgU"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
