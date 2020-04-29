@@ -1,0 +1,9 @@
+{
+  "id": "07e5a8d1-e0aa-4471-8e64-60349dcb714e",
+  "name": "Virus",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
